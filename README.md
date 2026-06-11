@@ -12,7 +12,7 @@
 
 Repository:
 
-* https://github.com/dharun-y/Task01_EDA
+* https://github.com/dharun-y/Task1_EDA
 
 #### Task 02: Data Cleaning & Preprocessing
 
